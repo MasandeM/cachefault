@@ -1,0 +1,4 @@
+baseURL = 'http://cachefault.com/'
+languageCode = 'en-us'
+title = 'Cache Fault'
+theme = "archie"
