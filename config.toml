@@ -1,4 +1,26 @@
-baseURL = 'http://cachefault.com/'
+baseURL = 'https://cachefault.com/'
 languageCode = 'en-us'
 title = 'Cache Fault'
 theme = "archie"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Articles"
+url = "/articles"
+weight = 2
+
+[[menu.main]]
+name = "Research"
+url = "/research"
+weight = 3
+
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 4
+
