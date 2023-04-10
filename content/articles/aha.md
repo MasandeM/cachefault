@@ -4,7 +4,7 @@ date: 2023-04-10T19:34:01+01:00
 draft: false
 ---
 
-### tldr;
+### tl;dr
 * Finding good information is tough. Especially when the tools we use for search prioritises ads and spam over high quality, authentic content.
 * Youtube has recordings of many of the conference talks that I enjoy watching, however it can be difficult to find the ones that I might be interested in, with no easy way to search through only the conferences I'm interested in.
 * [Let's Talk](https://letstalk.cachefault.com/) is a site created to help me search for relevant security talks when wanting to learn about a specific topic.
